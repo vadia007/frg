@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery('.page-id-83 .surface').append('<a class="view-album" href="#">View album</a>');});
